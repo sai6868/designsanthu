@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/designsanthu/static/css/main.8af7c550.css",
-    "main.js": "/designsanthu/static/js/main.3830f29b.js",
+    "main.js": "/designsanthu/static/js/main.fa5705ec.js",
     "static/js/787.b5d6ebb9.chunk.js": "/designsanthu/static/js/787.b5d6ebb9.chunk.js",
     "static/media/3.jpg": "/designsanthu/static/media/3.2a98a0f49b89fc5f26d5.jpg",
     "static/media/7.jpg": "/designsanthu/static/media/7.2ad850edc0c8b44ac538.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo.png": "/designsanthu/static/media/logo.0e83dc13491c794a4701.png",
     "index.html": "/designsanthu/index.html",
     "main.8af7c550.css.map": "/designsanthu/static/css/main.8af7c550.css.map",
-    "main.3830f29b.js.map": "/designsanthu/static/js/main.3830f29b.js.map",
+    "main.fa5705ec.js.map": "/designsanthu/static/js/main.fa5705ec.js.map",
     "787.b5d6ebb9.chunk.js.map": "/designsanthu/static/js/787.b5d6ebb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8af7c550.css",
-    "static/js/main.3830f29b.js"
+    "static/js/main.fa5705ec.js"
   ]
 }
